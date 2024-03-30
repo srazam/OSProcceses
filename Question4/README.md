@@ -29,11 +29,13 @@ echo: Recieved message from client! It is: Stardew Valley
 Continue if you would like, but if you would like to leave, type 'Exit' 
 
 
+
 Resident Evil  
 
 echo: Recieved message from client! It is: Resident Evil 
 
 Continue if you would like, but if you would like to leave, type 'Exit' 
+
 
 
 Dead by Daylight
