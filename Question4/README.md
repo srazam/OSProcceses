@@ -22,6 +22,7 @@ Input “Exit” into the client side and hit return. Both the client and the se
 ### Client side: 
 Enter a message:  Stardew Valley 
 
+
 echo: Recieved message from client! It is: Stardew Valley 
 
 Continue if you would like, but if you would like to leave, type 'Exit' 
