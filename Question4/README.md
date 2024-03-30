@@ -10,6 +10,7 @@ Then run it: java Server
 
 ## Compile and run the client: 
 Next, compile the client: javac Client.java 
+
 Then run it: java Client 
 
 ## To exit the program: 
