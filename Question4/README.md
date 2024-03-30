@@ -6,6 +6,7 @@ Creating an echo server in which echos back what it receives from the client.
 
 ## Compile and run the server: 
 First compile the server: javac Server.java 
+
 Then run it: java Server 
 
 ## Compile and run the client: 
@@ -23,15 +24,23 @@ Enter a message:
 Stardew Valley 
 
 echo: Recieved message from client! It is: Stardew Valley 
+
 Continue if you would like, but if you would like to leave, type 'Exit' 
+
 
 Resident Evil  
+
 echo: Recieved message from client! It is: Resident Evil 
+
 Continue if you would like, but if you would like to leave, type 'Exit' 
 
+
 Dead by Daylight
+
 echo: Recieved message from client! It is: Dead by Daylight 
+
 Continue if you would like, but if you would like to leave, type 'Exit' 
+
 Exit 
 
 ### Server side:  
