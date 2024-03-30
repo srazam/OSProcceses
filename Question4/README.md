@@ -28,11 +28,13 @@ echo: Recieved message from client! It is: Stardew Valley
 Continue if you would like, but if you would like to leave, type 'Exit' 
 
 
+
 Resident Evil  
 
 echo: Recieved message from client! It is: Resident Evil 
 
 Continue if you would like, but if you would like to leave, type 'Exit' 
+
 
 
 Dead by Daylight
@@ -45,7 +47,12 @@ Exit
 
 ### Server side:  
 Server is running... 
+
 Client connected 
+
 Message from client: Stardew Valley 
+
 Message from client: Resident Evil 
-Message from client: Dead by Daylight 
+
+Message from client: Dead by Daylight
+
